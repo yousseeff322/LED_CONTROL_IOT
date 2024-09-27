@@ -44,8 +44,6 @@ The website provides buttons for:
 - Turning LEDs on/off.
 - Activating the three different animations.
 
-### Website Preview:
-![Website UI]("C:\Users\YOUSSEF\Pictures\Screenshots\Screenshot 2024-09-28 000622.png")
 
 ## Code Structure
 The embedded code is divided into the following sections:
