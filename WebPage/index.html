@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Home Control</title>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+    <div class="bg-image"></div>
+    <div class="container">
+        <h1>Smart LED Control</h1>
+        <h2>LED Control</h2>
+
+        <!-- Original LED Control Buttons -->
+        <div class="btn-container">
+            <a class="on" onclick="controlLED('on')">Turn On</a>
+            <a class="off" onclick="controlLED('off')">Turn Off</a>
+        </div>
+
+        <!-- New Animation Buttons -->
+        <div class="btn-container">
+            <a class="animation2" onclick="controlLED('animation1')">Animation 1 (Circular Motion)</a>
+            <a class="animation1" onclick="controlLED('animation2')">Animation 2 (Blink One by One)</a>
+            <a class="animation3" onclick="controlLED('animation3')">Animation 3 (All Blink Simultaneously)</a>
+        </div>
+
+        <div id="led-status" class="message"></div> 
+    </div>
+
+
+    <div class="footer">
+        <p>This website is created by <a href="https://www.linkedin.com/in/youssef-hamed-/" class="creator-link">Youssef Hamed</a></p>
+    </div>
+
+
+
+    <script src="scripts.js"></script>
+</body>
+</html>
