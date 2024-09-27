@@ -45,7 +45,7 @@ The website provides buttons for:
 - Activating the three different animations.
 
 ### Website Preview:
-![Website UI]("C:\Users\YOUSSEF\Pictures\Screenshots\Screenshot 2024-09-28 000622.png")
+![Website UI]("[C:\Users\YOUSSEF\Pictures\Screenshots\Screenshot 2024-09-28 000622.png](https://github.com/yousseeff322/LED_CONTROL_IOT/blob/main/Screenshot%202024-09-28%20000622.png?raw=true)")
 
 ## Code Structure
 The embedded code is divided into the following sections:
