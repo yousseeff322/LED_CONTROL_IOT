@@ -45,7 +45,7 @@ The website provides buttons for:
 - Activating the three different animations.
 
 ### Website Preview:
-![Website UI](./mnt/data/Screenshot%202024-09-28%20000622.png)
+![Website UI]("C:\Users\YOUSSEF\Pictures\Screenshots\Screenshot 2024-09-28 000622.png")
 
 ## Code Structure
 The embedded code is divided into the following sections:
