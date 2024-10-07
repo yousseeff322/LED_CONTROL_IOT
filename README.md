@@ -3,6 +3,8 @@
 ## Overview
 This project allows users to control an array of 8 LEDs connected to an STM32 microcontroller through a web interface. The control is achieved using an ESP8266 module to handle communication between the STM32 and a remote server. The website provides options to turn the LEDs on or off and trigger different LED animations.
 
+https://github.com/user-attachments/assets/fd470462-0170-4256-9f00-0cdc67cd6b7d
+
 ## Features
 - **Web-based LED control**: Users can remotely control the state of the LEDs (on/off).
 - **Three LED animations**:
